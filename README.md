@@ -4,13 +4,6 @@ Portfolio for CPELX230-330, CPE Elective 2 and 3 (Agentic Software Engineering),
 
 Author: Firstname Lastname
 GitHub: shroudddyyy-collab
-
-# ASE-Portfolio-Lastname
- 
-Portfolio for CPELX230-330, CPE Elective 2 and 3 (Agentic Software Engineering), Computer Engineering, National University, Term 2 2026-2027.
- 
-Author: Firstname Lastname
-GitHub: shroudddyyy-collab
  
 ## Week 2-4: Exploring Agentic Software Engineering and Responsible AI
  
